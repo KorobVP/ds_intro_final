@@ -11,9 +11,9 @@ The file "2 FinalProject_Korob_ML.ipynb" contains a notebook with the progress o
 
 The API_Korob_ML folder contains the service code (used by fastapi) that provides work with the built model and examples of input data.
 
-File 4 Service demo.mp4 contains a short video demonstrating the service.
+File "4 Демонстрация сервиса.mp4" contains a short video demonstrating the service.
 
-A detailed description of the data and the task is contained in the file "Analysis of the site SberAutosubscription.pdf"
+A detailed description of the data and the task is contained in the file "Анализ сайта СберАвтоподписка.pdf"
 
 RUS
 
@@ -24,8 +24,8 @@ RUS
 Файл "2 FinalProject_Korob_ML.ipynb" содержит блокнот с ходом исследования. Результатом его работы является формирование пкл файла, содержащего модель и информацию, 
 необходимую для преобразования входных данных.
 
-Папка API_Korob_ML содержит код сервиса (используется fastapi) обеспечивающего работу с построеной моделью и примеры входных данных.
+Папка "API_Korob_ML" содержит код сервиса (используется fastapi) обеспечивающего работу с построеной моделью и примеры входных данных.
 
-Файл 4 Демонстрация сервиса.mp4 содержит короткое видео, демонстрирующее работу сервиса.
+Файл 4 "Демонстрация сервиса.mp4" содержит короткое видео, демонстрирующее работу сервиса.
 
 Подробное описание данных и задачи содержится в файле "Анализ сайта СберАвтоподписка.pdf"
